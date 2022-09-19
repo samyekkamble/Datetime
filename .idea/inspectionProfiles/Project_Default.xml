@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="expenses_backend.expenses_api.models.ExpenseTable.objects" />
+          <option value="expenses_backend.expenses_backend.urls.expenses_api" />
+          <option value="expenses_api2.expenses_api2.urls.api" />
+          <option value="expenses_api2.api.models.Expenses.objects" />
+          <option value="expenses_api2.api.models.Expenses.DoesNotExist" />
+          <option value="expenses_backend.expenses_api.models.ExpenseTable.DoesNotExist" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
